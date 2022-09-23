@@ -34,6 +34,7 @@ Open [http://localhost:5000](http://localhost:5000) and take a look around.
 
 ## Day 1 
 ### Print Hello World
+<img class="img-fluid" src="Screenshot (545).png"/>
 <img src="Day1/Screenshot (545).png"  alt="Screenshot of the example app"/></a>
 <img src="Day1/Screenshot (546).png"  alt="Screenshot of the example app"/></a>
 
