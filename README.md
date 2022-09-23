@@ -34,16 +34,15 @@ Open [http://localhost:5000](http://localhost:5000) and take a look around.
 
 ## Day 1 
 ### Print Hello World
-<img class="img-fluid" src="Screenshot (545).png"/>
-<img src="Day1/Screenshot (545).png"  alt="Screenshot of the example app"/></a>
-<img src="Day1/Screenshot (546).png"  alt="Screenshot of the example app"/></a>
+<img class="img-fluid" src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%201/Screenshot%20(545).png"   alt="Screenshot of the example app"/>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%201/Screenshot%20(546).png"  alt="Screenshot of the example app"/>
 
 ## Day 2 
 ### Routing between to pages index.js and admin.js
-<img src="Day1/Screenshot (547).png"  alt="Screenshot of the example app"/></a>
-<img src="Day1/Screenshot (548).png"  alt="Screenshot of the example app"/></a>
-<img src="Day1/Screenshot (549).png"  alt="Screenshot of the example app"/></a>
-<img src="Day1/Screenshot (550).png"  alt="Screenshot of the example app"/></a>
-<img src="Day1/Screenshot (551).png"  alt="Screenshot of the example app"/></a>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%202/Screenshot%20(547).png"  alt="Screenshot of the example app"/>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%202/Screenshot%20(548).png"  alt="Screenshot of the example app"/>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%202/Screenshot%20(549).png"  alt="Screenshot of the example app"/>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%202/Screenshot%20(550).png"  alt="Screenshot of the example app"/>
+<img src="https://github.com/Rahul-Bhati/NodeJs/blob/beea03c288293ac6be88f448eb5fc62d313c2284/Day%202/Screenshot%20(551).png"  alt="Screenshot of the example app"/>
 
 
